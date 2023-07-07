@@ -1,0 +1,31 @@
+<div class="row">
+  <div class="col-md-4">
+    <h1>Titulación</h1>
+    <p></p>
+    <ul>
+      <li>1. <a href="http://www.upp.edu.mx/serviciosescolares/wp-content/uploads/2017/05/Programa-de-titulaci%C3%B3n.pdf">Programa de titulación</a></li>
+      <li>2. <a href="http://www.upp.edu.mx/serviciosescolares/wp-content/uploads/2018/09/CONVOCATORIA-TITULACIÓN-LICENCIATURA-2018.pdf">Convocatoria para emisión y registro de título profesional LICENCIATURA</a></li>
+<!--      <li>3. <a href="http://www.upp.edu.mx/serviciosescolares/wp-content/uploads/2018/04/GU%C3%8DA-PARA-EMISI%C3%93N-DE-T%C3%8DTULO.ppsx">Trámite de titulación: Licenciatura en Terapia Física / Ingenierías</a></li>-->
+      <li>4. <a href="http://www.upp.edu.mx/serviciosescolares/wp-content/uploads/2018/09/CONVOCATORIA-TITULACIÓN-POSGRADO-2018.pdf">Convocatoria para emisión y registro de Diploma de Especialidad o Grado Académico POSGRADO</a></li>
+<!--      <li>5. <a href="http://www.upp.edu.mx/serviciosescolares/wp-content/uploads/2018/04/GU%C3%8DA-EMISI%C3%93N-ESPECIALIDAD-O-GRADO-ACAD%C3%89MICO.ppsx">Trámite de titulación: Titulación Especialidad / Maestría / Doctorado</a></li>-->
+    </ul>
+  </div>
+  <div class="col-md-4">
+    <img class="img-fluid rounded"
+     alt="egresados" src="./images/vuni/vidauni04.jpg" >
+  </div>
+  <div class="col-md-4">
+    <h1>Egresados</h1>
+    <ul>
+      <li><i class="fa fa-code"></i> <a href="https://sii.upp.edu.mx">SII</a></li>
+      <li><i class="fas fa-layer-group"></i> <a href="http://www.upp.edu.mx/serviciosescolares/?page_id=1576">Proceso de titulación</a></li>
+      <li><i class="fas fa-coffee"></i> <a href="http://www.upp.edu.mx/vinculacion/bolsa_occ.php">Bolsa de trabajo</a></li>
+      <!--<li><i class="fa fa-star"></i> <a href="../lib18/proximamente.php">Casos de éxito</a></li>-->
+    </ul>
+    <!--
+    <p>Proceso de titulación:<br />
+    (01 771) 54 77 555</p>
+  -->
+  </div>
+
+</div>
