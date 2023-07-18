@@ -1,0 +1,97 @@
+*{
+    margin:0px;
+}
+.banner{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+th{
+    border-bottom: #BC955B;
+}
+.image{
+    width: 1375px;
+    height: 280px;
+}
+.text1{
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    font-size: 50px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-size: 35px;
+}
+.iconNav{
+    width: 35px;
+    height: 35px; 
+}
+.container{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table,th,td{
+    border-bottom: 1px solid black;
+    padding: 8px;
+}
+.textNav{
+    display: block;
+}
+.subhead{
+    color: #BC955B;
+    margin-bottom: 12px;
+}
+.imgUpp{
+    width: 80%;
+    text-align: center;
+}
+.bodyText{
+    margin-top: 5rem;
+    padding-left: 5rem;
+    float: left;
+    width: 60%;
+}
+.addText{
+    margin-top: 5rem;
+    float: right;
+    width: 25%;
+    border: 1px;
+    border-color: black;
+    margin-right: 3rem;
+}
+h2{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.adverstment{
+    background-color: #691B31;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 10px;
+}
+.watchMore{
+    background: white;
+    border: 0px;
+    font-size: 14px;
+    margin-top: 2rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15%;
+}
+.extra, :visited{
+    margin-top: 20px;
+    background-color: #6F7271;
+    padding: 1rem;
+    padding-left: 1rem;
+    border-radius: 10px;
+    color:black
+}
